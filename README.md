@@ -7,20 +7,20 @@
 
 Want to give your long distance friend a memorable gift? Try making a virtual birthday cake with candles that blow out with a birthday card!
 
-## Inspiration
+## ✨ Inspiration
 
 I came across this cool [Instagram Post](https://www.instagram.com/reel/C0xoHgDLmqg/) by Mewtru. But it wasn't done using Python.
 
 So for all the python developers out there, here's a cool gift to give your loved ones (in .exe file ofc)!
 
-## Features
+## 🍰 Features
 
 - **Cake Screen**: Displays a single cake with a pattern background.
 - **Add Candles**: To add candles, increment the age. The older you are, the more candles!
 - **Detect Mic (to blow out candles)**: Allows users to blow out the candles using mic! Blow harder to take out all the candles!
 - **Birthday Card**: After blowing out the candles, a birthday card opens to wish you well!
 
-## Run Project Locally
+## 🛠️ Run Project Locally
 
 Follow the steps below to set up and run this project locally:
 
@@ -44,11 +44,11 @@ cd python-birthday-cake-blowing-candle
 pip install pygame pyaudio numpy
 ```
 
-## Customise Project
+## 🖊️ Customise Project
 - **Images/Background:** Change the images in ***line #29 - #33***
 - **Card Description:** Change Card Details in ***line #283*** onwards.
 
-## Share to your loved ones (.exe file)
+## 💌 Share to your loved ones (.exe file)
 
 - Run Commands to make .exe
 ```bash
@@ -64,7 +64,7 @@ pyinstaller --onefile --windowed --add-data "background.png;." --add-data "cake.
 > [!NOTE]
 > When sharing .exe files, Windows often detect unsigned .exe files as virus. Simply ask your friend to turn off any active Windows Antivirus Detector or Windows Security! Rest assured, the project contains no virus :>!
 
-## Screen Shots
+## 📁 Screen Shots
 <p align="center">
   <img src="screenshots/1.png" alt="Screenshot 1" width="45%"/>
   <img src="screenshots/2.png" alt="Screenshot 2" width="45%"/>
