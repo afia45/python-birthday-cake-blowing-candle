@@ -1,6 +1,9 @@
 # Happy Birthday Cake - Blow Out Candles! (in Python)
 
-![Screen shots](screenshots/3.png)
+<p align="center">
+  <img src="screenshots/3.png" alt="Screenshot 1" width="45%"/>
+  <img src="screenshots/5.png" alt="Screenshot 2" width="45%"/>
+</p>
 
 Want to give your long distance friend a memorable gift? Try making a virtual birthday cake with candles that blow out with a birthday card!
 
@@ -62,7 +65,11 @@ pyinstaller --onefile --windowed --add-data "background.png;." --add-data "cake.
 > When sharing .exe files, Windows often detect unsigned .exe files as virus. Simply ask your friend to turn off any active Windows Antivirus Detector or Windows Security! Rest assured, the project contains no virus :>!
 
 ## Screen Shots
-![Screen shots](screenshots/1.png)
-![Screen shots](screenshots/2.png)
-![Screen shots](screenshots/3.png)
-![Screen shots](screenshots/4.png)
+<p align="center">
+  <img src="screenshots/1.png" alt="Screenshot 1" width="45%"/>
+  <img src="screenshots/2.png" alt="Screenshot 2" width="45%"/>
+</p>
+<p align="center">
+  <img src="screenshots/3.png" alt="Screenshot 1" width="45%"/>
+  <img src="screenshots/4.png" alt="Screenshot 2" width="45%"/>
+</p>
