@@ -16,6 +16,7 @@ So for all the python developers out there, here's a cool gift to give your love
 ## 🍰 Features
 
 - **Cake Screen**: Displays a single cake with a pattern background.
+- **Interactive Buttons**: + sign to increase age, - sign to decrease, press CONFRIM to start blowing out candles!
 - **Add Candles**: To add candles, increment the age. The older you are, the more candles!
 - **Detect Mic (to blow out candles)**: Allows users to blow out the candles using mic! Blow harder to take out all the candles!
 - **Birthday Card**: After blowing out the candles, a birthday card opens to wish you well!
